@@ -1,0 +1,12 @@
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\bin\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.deps.json
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\bin\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.dll
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\bin\Release\net5.0\ref\BlazorWasmAspNetHostedAad.Shared.dll
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\bin\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.pdb
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.csprojAssemblyReference.cache
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.AssemblyInfoInputs.cache
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.AssemblyInfo.cs
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.csproj.CoreCompileInputs.cache
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.dll
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\ref\BlazorWasmAspNetHostedAad.Shared.dll
+D:\Sandbox\Blazor\ProjectTypes\BlazorWasmAspNetHostedAad\Shared\obj\Release\net5.0\BlazorWasmAspNetHostedAad.Shared.pdb
